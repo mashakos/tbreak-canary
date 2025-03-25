@@ -1,8 +1,8 @@
-# Delosian Digital
+# TBreak News
 
-[![Site preview](/public/site-preview.png)](https://delosian.pro)
+[![Site preview](/public/site-preview.png)](https://tbreak.com)
 
-Inspired by the mystical tales of Leto from Greek Mythology and the boundless possibilities of technology, Delosian Digital invites you to explore our journey through the intersection of creativity and innovation.
+t-break prototype
 
 Built with [Remix](https://remix.run/), [Three.js](https://threejs.org/), and [Framer Motion](https://www.framer.com/motion/).
 
